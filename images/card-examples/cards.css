@@ -1,0 +1,27 @@
+.card-container {
+  max-width: 320px;
+  border: 1px solid #ccc;
+  padding: 2px;
+  margin: 15px;
+}
+
+.card-title {
+  	font-size: 18px;
+  	padding: 0 0 5px 0;
+  	color: rgb(31, 65, 154)
+  }
+.card-title a:hover {
+  color: #1E384B;
+}
+.card-body {
+    font-size: 16px;
+}
+
+.card-wide {
+  font-family: Tahoma, Verdana, Segoe, sans-serif;
+  line-height: 20px;
+}
+.card-wide .card-image {
+  max-width: 100%;
+  height: auto;
+}
