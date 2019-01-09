@@ -1,0 +1,36 @@
+//Typography
+
+body {
+  font-family: Tahoma, Verdana, Segoe, sans-serif;
+  line-height: 20px;
+  font-size: 15px
+  font-weight: 400;
+  color: #1E384B;
+}
+
+h1 {
+  line-height: 34px;
+  font-size: 32px
+  font-weight: 700;
+}
+
+h2 {
+  line-height: 30px;
+  font-size: 28px
+  font-weight: 700;
+}
+
+h3 {
+  line-height: 22px;
+  font-size: 21px
+  font-weight: 700;
+}
+
+
+h4 {
+  line-height: 18px;
+  font-size: 16px
+  font-weight: 700;
+}
+
+// needs mobile sizes
