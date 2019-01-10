@@ -1,4 +1,4 @@
-// this class helps to constain the card using a container -- it is an example only
+/* this class helps to constain the card using a container -- it is an example only */
 .card-container {
   max-width: 320px;
   border: 1px solid #ccc;
