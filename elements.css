@@ -1,0 +1,15 @@
+.primary-button-1 {
+  font-family: Tahoma, Verdana, Segoe, sans-serif;
+  font-size: 16px;
+  font-weight: regular;
+  background-color: ##1A6986;
+  color: #fff;
+  padding: 15px 20px;
+  margin: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.primary-button-1:hover {
+  background-color: ##1A6986;
+}
